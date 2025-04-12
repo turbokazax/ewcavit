@@ -1,17 +1,18 @@
-# EWCAVIT - Ensemble of Weighted CNNs, spatial/channelwise Attention block, and a Visual Transformer
+# WeCAViT: A Weighted CNN-ViT model for Pneumonia Detection in Chest X-rays
 
 ## Citation
 
 If you have found this work useful, please cite this paper as:
 
 ```
-@misc{jumabekov_2024,
- title={Classification of Pneumonia from CXR scans using an Ensemble of Weighted CNNs, Attention block, and a Visual Transformer — EWCAVIT},
- url={osf.io/f2kx7},
- DOI={10.31219/osf.io/f2kx7},
- publisher={OSF Preprints},
- author={Jumabekov, Arnur},
- year={2024},
- month={Oct}
-}
+@INPROCEEDINGS{10898141,
+  author={Jumabekov, Arnur and Yashtini, Maryam},
+  booktitle={2025 13th International Conference on Intelligent Control and Information Processing (ICICIP)}, 
+  title={WeCAViT: A Weighted CNN model for Pneumonia Detection in Chest X-rays}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={300-307},
+  keywords={Visualization;Pediatrics;Pneumonia;Accuracy;Transformers;Feature extraction;Convolutional neural networks;Reliability;X-ray imaging;Medical diagnostic imaging;Pneumonia detection;Chest X-rays;Weighted CNNs;Attention Mechanism;Visual Transformers},
+  doi={10.1109/ICICIP64458.2025.10898141}}
 ```
